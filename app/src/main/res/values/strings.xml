@@ -1,28 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<!-- android_large___10 strings -->
+	<!-- android_large___11 strings -->
 
 	<string name="app_name">Page 1</string>
 	<string name="ek_img_content">ExportKit Image</string>
-	<string name="booking_summary_string">Booking Summary</string>
-	<string name="ayana_resort_string">AYANA Resort</string>
-	<string name="bali__indonesia_string">Bali, Indonesia</string>
-	<string name="booking_date_string">Booking Date</string>
-	<string name="check_in_string">Check-in</string>
-	<string name="chcek_out_string">Chcek-out</string>
-	<string name="guests_string">Guests</string>
-	<string name="room_s__string">Room(s)</string>
-	<string name="amount_string">Amount</string>
-	<string name="tax_string">Tax</string>
-	<string name="total_string">Total</string>
-	<string name="__350_usd__night_string">$350 USD /night</string>
-	<string name="_1_oct_2023_string">1-Oct-2023</string>
-	<string name="__350_x_2_string">$350 x 2</string>
-	<string name="__30_string">$30</string>
-	<string name="__730_string">$730</string>
-	<string name="_24_oct_2023_string">24-Oct-2023</string>
-	<string name="_26_oct_2023_string">26-Oct-2023</string>
-	<string name="_3_string">3</string>
-	<string name="_1_string">1</string>
-	<string name="continue_to_payment_string">CONTINUE TO PAYMENT</string>
+	<string name="payment_string">Payment</string>
+	<string name="pay_now_string">PAY NOW</string>
+	<string name="card_holder_name_string">Card Holder Name</string>
+	<string name="_5__vst_included_string">5% vst included</string>
+	<string name="card_number_string">Card Number</string>
+	<string name="your_name_string">Your Name</string>
+	<string name="expiry_date_string">Expiry date</string>
+	<string name="mm_yy_string">MM/YY</string>
+	<string name="________________string">**** **** ****</string>
+	<string name="cvv_string">CVV</string>
+	<string name="______string">****</string>
+	<string name="total_price_string">Total Price</string>
+	<string name="__750_00_string">$750.00</string>
+	<string name="payment_method_string">Payment method</string>
 </resources>

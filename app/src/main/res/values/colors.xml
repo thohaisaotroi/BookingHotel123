@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<!-- android_large___10 colors -->
+	<!-- android_large___11 colors -->
 
 	<color name="colorPrimary">#008577</color>
 	<color name="colorPrimaryDark">#00574B</color>
@@ -13,10 +13,10 @@
 	<color name="black">#FF000000</color>
 	<color name="white">#FFFFFFFF</color>
 
-	<color name="_bg__android_large___10_color">#F5FAFE</color>
-	<color name="booking_summary_color">#007EF2</color>
+	<color name="_bg__android_large___11_color">#F5FAFE</color>
+	<color name="payment_color">#007EF2</color>
 	<color name="_bg___ep_back_ek1_color">#000000</color>
-	<color name="bali__indonesia_color">#7F7F7F</color>
-	<color name="booking_date_color">#242323</color>
-	<color name="continue_to_payment_color">#FEFEFE</color>
+	<color name="pay_now_color">#FEFEFE</color>
+	<color name="card_holder_name_color">#767575</color>
+	<color name="rectangle_82_color">#ffffff</color>
 </resources>
