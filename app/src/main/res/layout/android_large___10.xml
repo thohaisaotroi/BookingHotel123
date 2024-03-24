@@ -1,0 +1,317 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		android_large___10
+	 *	@date 		Sunday 24th of March 2024 04:37:11 AM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/android_large___10" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+			<View   android:id="@+id/_bg__android_large___10"
+				android:background="@drawable/_bg__android_large___10_shape"
+				 android:layout_marginStart="0dp"
+				android:layout_marginTop="0dp"
+				android:layout_width="360dp"
+				android:layout_height="800dp" />
+
+			<TextView android:id="@+id/booking_summary"
+				android:textStyle="bold"
+				android:layout_gravity="center_horizontal|center"
+				android:gravity="center"
+				android:textSize="20sp"
+				android:textColor="@color/booking_summary_color"
+				android:layout_marginLeft="94dp"
+				android:layout_marginTop="27dp"
+				android:layout_width="190dp"
+				android:layout_height="33dp"
+				android:text="@string/booking_summary_string"
+				 />
+
+
+			<RelativeLayout android:id="@+id/ep_back"
+				android:layout_marginTop="30dp"
+				android:layout_marginStart="16dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg___ep_back_ek1"
+					android:background="@drawable/_bg___ep_back_ek1_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="24dp"
+					android:layout_height="24dp" />
+
+				<ImageView android:id="@+id/vector"
+					android:src="@drawable/vector"
+					android:contentDescription="vector"
+					 android:layout_marginStart="4.5dp"
+					android:layout_marginTop="11.25dp"
+					android:layout_width="16.5dp"
+					android:layout_height="1.5dp" />
+
+				<ImageView android:id="@+id/vector_ek1"
+					android:src="@drawable/vector_ek1"
+					android:contentDescription="vector_ek1"
+					 android:layout_marginStart="3.75dp"
+					android:layout_marginTop="4.5dp"
+					android:layout_width="8.25dp"
+					android:layout_height="15dp" />
+
+			</RelativeLayout>
+
+			<ImageView android:id="@+id/rectangle_77"
+				android:src="@drawable/rectangle_77"
+				android:contentDescription="rectangle_77"
+				 android:layout_marginStart="23dp"
+				android:layout_marginTop="98dp"
+				android:layout_width="115dp"
+				android:layout_height="78dp" />
+
+			<TextView android:id="@+id/ayana_resort"
+				android:textStyle="bold"
+				android:textSize="16sp"
+				android:textColor="@color/_bg___ep_back_ek1_color"
+				android:layout_marginLeft="156dp"
+				android:layout_marginTop="103dp"
+				android:layout_width="155.6dp"
+				android:layout_height="24.6dp"
+				android:text="@string/ayana_resort_string"
+				 />
+
+			<TextView android:id="@+id/bali__indonesia"
+				android:textColor="@color/bali__indonesia_color"
+				android:layout_marginLeft="157dp"
+				android:layout_marginTop="130dp"
+				android:layout_width="81dp"
+				android:layout_height="18dp"
+				android:text="@string/bali__indonesia_string"
+				 />
+
+			<TextView android:id="@+id/booking_date"
+				android:textStyle="bold"
+				android:textSize="15sp"
+				android:textColor="@color/booking_date_color"
+				android:layout_marginLeft="33dp"
+				android:layout_marginTop="222dp"
+				android:layout_width="129.5dp"
+				android:layout_height="19.5dp"
+				android:text="@string/booking_date_string"
+				 />
+
+			<TextView android:id="@+id/check_in"
+				android:textStyle="bold"
+				android:textSize="15sp"
+				android:textColor="@color/booking_date_color"
+				android:layout_marginLeft="33dp"
+				android:layout_marginTop="252dp"
+				android:layout_width="129.5dp"
+				android:layout_height="19.5dp"
+				android:text="@string/check_in_string"
+				 />
+
+			<TextView android:id="@+id/chcek_out"
+				android:textStyle="bold"
+				android:textSize="15sp"
+				android:textColor="@color/booking_date_color"
+				android:layout_marginLeft="33dp"
+				android:layout_marginTop="282dp"
+				android:layout_width="129.5dp"
+				android:layout_height="19.5dp"
+				android:text="@string/chcek_out_string"
+				 />
+
+			<TextView android:id="@+id/guests"
+				android:textStyle="bold"
+				android:textSize="15sp"
+				android:textColor="@color/booking_date_color"
+				android:layout_marginLeft="33dp"
+				android:layout_marginTop="312dp"
+				android:layout_width="129.5dp"
+				android:layout_height="19.5dp"
+				android:text="@string/guests_string"
+				 />
+
+			<TextView android:id="@+id/room_s_"
+				android:textStyle="bold"
+				android:textSize="15sp"
+				android:textColor="@color/booking_date_color"
+				android:layout_marginLeft="33dp"
+				android:layout_marginTop="342dp"
+				android:layout_width="129.5dp"
+				android:layout_height="19.5dp"
+				android:text="@string/room_s__string"
+				 />
+
+			<TextView android:id="@+id/amount"
+				android:textStyle="bold"
+				android:textSize="15sp"
+				android:textColor="@color/booking_date_color"
+				android:layout_marginLeft="33dp"
+				android:layout_marginTop="438dp"
+				android:layout_width="129.5dp"
+				android:layout_height="19.5dp"
+				android:text="@string/amount_string"
+				 />
+
+			<TextView android:id="@+id/tax"
+				android:textStyle="bold"
+				android:textSize="15sp"
+				android:textColor="@color/booking_date_color"
+				android:layout_marginLeft="33dp"
+				android:layout_marginTop="468dp"
+				android:layout_width="129.5dp"
+				android:layout_height="19.5dp"
+				android:text="@string/tax_string"
+				 />
+
+			<TextView android:id="@+id/total"
+				android:textStyle="bold"
+				android:textSize="15sp"
+				android:textColor="@color/booking_date_color"
+				android:layout_marginLeft="33dp"
+				android:layout_marginTop="500dp"
+				android:layout_width="129.5dp"
+				android:layout_height="19.5dp"
+				android:text="@string/total_string"
+				 />
+
+			<TextView android:id="@+id/__350_usd__night"
+				android:textStyle="bold"
+				android:textSize="16sp"
+				android:textColor="@color/booking_summary_color"
+				android:layout_marginLeft="157dp"
+				android:layout_marginTop="152dp"
+				android:layout_width="154.6dp"
+				android:layout_height="24.6dp"
+				android:text="@string/__350_usd__night_string"
+				 />
+
+			<TextView android:id="@+id/_1_oct_2023"
+				android:textSize="16sp"
+				android:textColor="@color/_bg___ep_back_ek1_color"
+				android:layout_marginLeft="232dp"
+				android:layout_marginTop="222dp"
+				android:layout_width="154.6dp"
+				android:layout_height="24.6dp"
+				android:text="@string/_1_oct_2023_string"
+				 />
+
+			<TextView android:id="@+id/__350_x_2"
+				android:textSize="16sp"
+				android:textColor="@color/_bg___ep_back_ek1_color"
+				android:layout_marginLeft="232dp"
+				android:layout_marginTop="442dp"
+				android:layout_width="154.6dp"
+				android:layout_height="24.6dp"
+				android:text="@string/__350_x_2_string"
+				 />
+
+			<TextView android:id="@+id/__30"
+				android:textSize="16sp"
+				android:textColor="@color/_bg___ep_back_ek1_color"
+				android:layout_marginLeft="232dp"
+				android:layout_marginTop="468dp"
+				android:layout_width="154.6dp"
+				android:layout_height="24.6dp"
+				android:text="@string/__30_string"
+				 />
+
+			<TextView android:id="@+id/__730"
+				android:textSize="16sp"
+				android:textColor="@color/_bg___ep_back_ek1_color"
+				android:layout_marginLeft="232dp"
+				android:layout_marginTop="500dp"
+				android:layout_width="154.6dp"
+				android:layout_height="24.6dp"
+				android:text="@string/__730_string"
+				 />
+
+			<TextView android:id="@+id/_24_oct_2023"
+				android:textSize="16sp"
+				android:textColor="@color/_bg___ep_back_ek1_color"
+				android:layout_marginLeft="232dp"
+				android:layout_marginTop="250dp"
+				android:layout_width="154.6dp"
+				android:layout_height="24.6dp"
+				android:text="@string/_24_oct_2023_string"
+				 />
+
+			<TextView android:id="@+id/_26_oct_2023"
+				android:textSize="16sp"
+				android:textColor="@color/_bg___ep_back_ek1_color"
+				android:layout_marginLeft="232dp"
+				android:layout_marginTop="280dp"
+				android:layout_width="154.6dp"
+				android:layout_height="24.6dp"
+				android:text="@string/_26_oct_2023_string"
+				 />
+
+			<TextView android:id="@+id/_3"
+				android:textSize="16sp"
+				android:textColor="@color/_bg___ep_back_ek1_color"
+				android:layout_marginLeft="232dp"
+				android:layout_marginTop="311dp"
+				android:layout_width="154.6dp"
+				android:layout_height="24.6dp"
+				android:text="@string/_3_string"
+				 />
+
+			<TextView android:id="@+id/_1"
+				android:textSize="16sp"
+				android:textColor="@color/_bg___ep_back_ek1_color"
+				android:layout_marginLeft="232dp"
+				android:layout_marginTop="341dp"
+				android:layout_width="154.6dp"
+				android:layout_height="24.6dp"
+				android:text="@string/_1_string"
+				 />
+
+			<ImageView android:id="@+id/line_8"
+				android:src="@drawable/line_8"
+				android:contentDescription="line_8"
+				 android:layout_marginStart="-1dp"
+				android:layout_marginTop="406dp"
+				android:layout_width="360dp"
+				android:layout_height="1dp" />
+
+			<View   android:id="@+id/_rectangle_83"
+				android:background="@drawable/_rectangle_83_shape"
+				 android:layout_marginStart="33dp"
+				android:layout_marginTop="723dp"
+				android:layout_width="299dp"
+				android:layout_height="46dp" />
+
+			<TextView android:id="@+id/continue_to_payment"
+				android:textStyle="bold"
+				android:layout_gravity="center_horizontal|center"
+				android:gravity="center"
+				android:textSize="18sp"
+				android:textColor="@color/continue_to_payment_color"
+				android:layout_marginLeft="71dp"
+				android:layout_marginTop="736dp"
+				android:layout_width="235dp"
+				android:layout_height="25.8dp"
+				android:text="@string/continue_to_payment_string"
+				 />
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

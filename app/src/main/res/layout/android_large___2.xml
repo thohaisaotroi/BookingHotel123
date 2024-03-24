@@ -1,0 +1,87 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		android_large___2
+	 *	@date 		Saturday 23rd of March 2024 09:09:16 PM
+	 *	@title 		Page 1
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/android_large___2" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+			<View   android:id="@+id/_bg__android_large___2"
+				android:background="@drawable/_bg__android_large___2_shape"
+				 android:layout_marginStart="0dp"
+				android:layout_marginTop="0dp"
+				android:layout_width="360dp"
+				android:layout_height="800dp" />
+
+
+			<RelativeLayout android:id="@+id/fa6_solid_map_location_dot"
+				android:layout_marginTop="291dp"
+				android:layout_marginStart="148dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__fa6_solid_map_location_dot_ek1"
+					android:background="@drawable/_bg__fa6_solid_map_location_dot_ek1_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="63dp"
+					android:layout_height="51dp" />
+
+				<ImageView android:id="@+id/vector"
+					android:src="@drawable/vector"
+					android:contentDescription="vector"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="63dp"
+					android:layout_height="50.25dp" />
+
+			</RelativeLayout>
+
+			<TextView android:id="@+id/_wanderstay"
+				android:textStyle="bold"
+				android:layout_gravity="center_horizontal|center"
+				android:gravity="center"
+				android:textSize="45sp"
+				android:textColor="@color/_wanderstay_color"
+				android:layout_marginLeft="35dp"
+				android:layout_marginTop="351dp"
+				android:layout_width="285dp"
+				android:layout_height="85.5dp"
+				android:text="@string/_wanderstay_string"
+				 />
+
+			<TextView android:id="@+id/find_your_stay__your_way"
+				android:textStyle="bold"
+				android:layout_gravity="center_horizontal|center"
+				android:gravity="center"
+				android:textSize="20sp"
+				android:textColor="@color/find_your_stay__your_way_color"
+				android:layout_marginLeft="17dp"
+				android:layout_marginTop="412dp"
+				android:layout_width="327dp"
+				android:layout_height="42dp"
+				android:text="@string/find_your_stay__your_way_string"
+				 />
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>
